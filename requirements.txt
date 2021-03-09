@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+plotly
+cufflinks
+stylecloud
+nltk
+pathlib
+keplergl
+

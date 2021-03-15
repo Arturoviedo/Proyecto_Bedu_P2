@@ -30,7 +30,7 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](https://github.com/Arturoviedo/Proyecto_Bedu_P2/blob/main/README.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 

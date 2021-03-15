@@ -1,10 +1,12 @@
 # Proyecto_Bedu_P2
-_En este repositorio se encuentra el proyecto del módulo de Python_
+_En este repositorio se encuentra el proyecto del módulo de Python; el video del proyecto lo puedes encontrar en [Video](https://youtu.be/wuZZTSqymf0)_ 
 
 
 ## Proyecto Bedu Equipo 10 
 
-## Objetivo
+## Identificación del problema
+
+Resulta de suma importancia para los participes del Bootcamp de Análisis de Datos conocer cuál es el panorama laboral. Por lo que se decidió explorar el presente conjunto de datos para poder esclarecer algunas dudas clave para los estudiantes.
 
 ## Comenzando 🚀
 
